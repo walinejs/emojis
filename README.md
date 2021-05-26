@@ -40,16 +40,19 @@ You can use set `emojis` options with an array containing following links
 
 - Twemoji
 
-  - Full: (Not recommand)
-
-    ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis/tw
-    ```
-
   - Emoji:
 
     ```
     https://cdn.jsdelivr.net/gh/walinejs/emojis/tw-emoji
+    ```
+
+  <details>
+  <summary>Others</summary>
+
+  - Full: (Not recommand)
+
+    ```
+    https://cdn.jsdelivr.net/gh/walinejs/emojis/tw
     ```
 
   - People:
@@ -117,6 +120,8 @@ You can use set `emojis` options with an array containing following links
     ```
     https://cdn.jsdelivr.net/gh/walinejs/emojis/tw-weather
     ```
+
+  </details>
 
 - Weibo
 
