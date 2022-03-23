@@ -26,6 +26,17 @@ You can use set `emojis` options with an array containing following links
   https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili
   ```
 
+  <details>
+  <summary>Others</summary>
+
+  - 小黄脸:
+
+    ```
+    https://cdn.jsdelivr.net/gh/zvonimirsun/emojis@1.0.0/bilibili-xhl
+    ```
+
+  </details>
+
 - QQ
 
   ```
