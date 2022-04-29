@@ -1,6 +1,6 @@
 {
   "name": "@waline/emojis",
-  "version": "1.0.1",
+  "version": "1.0.2-test.0",
   "description": "Emojis for Waline",
   "keywords": [
     "waline",
@@ -25,6 +25,7 @@
     "email": "mister-hope@outlook.com",
     "url": "https://mrhope.site"
   },
+  "unpkg": "info.json",
   "publishConfig": {
     "access": "public"
   }
