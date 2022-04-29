@@ -1,12 +1,15 @@
 {
   "name": "@waline/emojis",
-  "version": "1.0.2-test.0",
+  "version": "1.0.2-test.1",
   "description": "Emojis for Waline",
   "keywords": [
     "waline",
     "comment",
     "blog"
   ],
+  "exports": {
+    "teiba": "./tieba/info.json"
+  },
   "scripts": {
     "build": "node build.js",
     "test": "echo \"Error: no test specified\" && exit 1"
