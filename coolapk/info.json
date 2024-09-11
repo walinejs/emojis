@@ -1,0 +1,23 @@
+{
+  "name": "酷安表情包",
+  "prefix": "coolapk_",
+  "type": "png",
+  "icon": "shounuehuaji",
+  "items": [
+    "1d", "1eu", "1fen", "1mao", "1rmb", "2d", "2eu", "2fen", "2mao", "2rmb",
+    "5d", "5eu", "5fen", "5mao", "5rmb", "10_coin", "20_coin", "50_coin", "100_coin", "angry",
+    "beaut", "coolapk_coin", "coolapk_coin_2", "coolapk_what", "cry_laugh", "drinking", "eat_mush", "glance", "green_coin", "half_eyes",
+    "humor", "laugh_cry", "peeping", "pitiful", "red_nike", "silver_coin", "slap", "speechless_smile", "squint", "squint_2",
+    "yawn", "aixin", "aoman", "baiyan", "baoquan", "bishi", "caidao", "chigua", "ciya", "coolb",
+    "coshuaji", "diaoxie", "doge", "dogehechi", "dogexiaoku", "dogeyuanliangta", "doujiyanhuaji", "erha", "erhading", "fadai",
+    "fanu", "fived", "fivef", "fivem", "fiveo", "fivey", "fy", "hahaha", "haixiu", "han",
+    "hehe", "heiha", "heixian", "hejiu", "hongyaowan", "huaixiao", "huaji", "huanhu", "huoba", "jingya",
+    "jizhi", "keai", "kelian", "koubi", "ku", "kuan", "kuanlvmao", "liuhanhuaji", "liulei", "lvmao",
+    "lvyaowan", "meigui", "miaomiao", "mojinghuaji", "naikezui", "nanguo", "nb", "ok", "oned", "onef",
+    "onem", "oneo", "oney", "oy", "pen", "penxue", "piezui", "pu", "pyjiaoyi", "qiang",
+    "qinqin", "qqdoge", "ruo", "se", "shounuehuaji", "shui", "teny", "tuosai", "tushe", "twod",
+    "twof", "twom", "twoo", "twoy", "ty", "weiqu", "weiweiyixiao", "weixiao", "wozuimei", "wulian",
+    "wunai", "wuyu", "wuzuixiao", "xiaoku", "xiaoyan", "xinsui", "ye", "yinxian", "yiwen", "zaijian",
+    "zhoumei"
+  ]
+}
