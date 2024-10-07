@@ -1,7 +1,1 @@
-{
-  "name": "COOLAPK_COIN",
-  "prefix": "kucoin_",
-  "type": "png",
-  "icon": "flat_coin",
-  "items": ["flat_coin", "flat_1fen", "flat_2fen", "flat_5fen", "flat_1mao", "flat_2mao", "flat_5mao", "flat_1rmb", "flat_2rmb", "flat_5rmb", "flat_10", "flat_20", "flat_50", "flat_100", "flat_1dollar", "flat_2dollar", "flat_5dollar", "flat_1eur", "flat_2eur", "flat_5eur", "silver", "bronze", "gold", "coin", "1fen", "2fen", "5fen", "1mao", "2mao", "5mao", "1rmb", "2rmb", "5rmb", "10", "20", "50", "100", "1dollar", "2dollar", "5dollar", "1eur", "2eur", "5eur"]
-}
+{"name":"COOLAPK_COIN","prefix":"kucoin_","type":"png","icon":"flat_coin","items":["flat_coin","flat_1fen","flat_2fen","flat_5fen","flat_1mao","flat_2mao","flat_5mao","flat_1rmb","flat_2rmb","flat_5rmb","flat_10","flat_20","flat_50","flat_100","flat_1dollar","flat_2dollar","flat_5dollar","flat_1eur","flat_2eur","flat_5eur","silver","bronze","gold","coin","1fen","2fen","5fen","1mao","2mao","5mao","1rmb","2rmb","5rmb","10","20","50","100","1dollar","2dollar","5dollar","1eur","2eur","5eur"]}
