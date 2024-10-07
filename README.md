@@ -34,16 +34,16 @@ You can use set `emojis` options with an array containing following links
 
 - Coolapk
 
-  ```  
-  https://unpkg.com/@waline/emojis@1.2.0/coolapk
-  ```
-  <details><summary>COIN</summary>
-  - coin:
+  - Emoji:
+
+    ```
+    https://unpkg.com/@waline/emojis@1.2.0/coolapk
+    ```
+  - Coin:
 
     ```
     https://unpkg.com/@waline/emojis@1.2.0/coolapk_coin
     ```
-  </details>
   
 - QQ
 
