@@ -17,31 +17,44 @@ You can use set `emojis` options with an array containing following links
 - Alus
 
   ```
-  https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/alus
+  https://unpkg.com/@waline/emojis@1.2.0/alus
   ```
 
 - Bilibili
 
   ```
-  https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/bilibili
+  https://unpkg.com/@waline/emojis@1.2.0/bilibili
   ```
 
 - Bilibili Yellow face
 
-  ```
-  https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/bmoji
+  ```  
+  https://unpkg.com/@waline/emojis@1.2.0/bmoji
   ```
 
+- Coolapk
+
+  - Emoji:
+
+    ```
+    https://unpkg.com/@waline/emojis@1.2.0/coolapk
+    ```
+  - Coin:
+
+    ```
+    https://unpkg.com/@waline/emojis@1.2.0/coolapk_coin
+    ```
+  
 - QQ
 
   ```
-  https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/qq
+  https://unpkg.com/@waline/emojis@1.2.0/qq
   ```
 
 - Tieba
 
   ```
-  https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tieba
+  https://unpkg.com/@waline/emojis@1.2.0/tieba
   ```
 
 - Twemoji
@@ -49,7 +62,7 @@ You can use set `emojis` options with an array containing following links
   - Emoji:
 
     ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-emoji
+    https://unpkg.com/@waline/emojis@1.2.0/tw-emoji
     ```
 
   <details>
@@ -58,73 +71,73 @@ You can use set `emojis` options with an array containing following links
   - Full: (Not recommand)
 
     ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw
+    https://unpkg.com/@waline/emojis@1.2.0/tw
     ```
 
   - People:
 
     ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-people
+    https://unpkg.com/@waline/emojis@1.2.0/tw-people
     ```
 
   - Body:
 
     ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-body
+    https://unpkg.com/@waline/emojis@1.2.0/tw-body
     ```
 
   - Flag:
 
     ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-flag
+    https://unpkg.com/@waline/emojis@1.2.0/tw-flag
     ```
 
   - Food:
 
     ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-food
+    https://unpkg.com/@waline/emojis@1.2.0/tw-food
     ```
 
   - Natural:
 
     ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-natural
+    https://unpkg.com/@waline/emojis@1.2.0/tw-natural
     ```
 
   - Object:
 
     ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-object
+    https://unpkg.com/@waline/emojis@1.2.0/tw-object
     ```
 
   - Sport:
 
     ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-sport
+    https://unpkg.com/@waline/emojis@1.2.0/tw-sport
     ```
 
   - Symbol:
 
     ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-symbol
+    https://unpkg.com/@waline/emojis@1.2.0/tw-symbol
     ```
 
   - Time:
 
     ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-time
+    https://unpkg.com/@waline/emojis@1.2.0/tw-time
     ```
 
   - Travel:
 
     ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-travel
+    https://unpkg.com/@waline/emojis@1.2.0/tw-travel
     ```
 
   - Weather:
 
     ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-weather
+    https://unpkg.com/@waline/emojis@1.2.0/tw-weather
     ```
 
   </details>
@@ -132,7 +145,7 @@ You can use set `emojis` options with an array containing following links
 - Weibo
 
   ```
-  https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/weibo
+  https://unpkg.com/@waline/emojis@1.2.0/weibo
   ```
 
 ## Thanks / 感谢
