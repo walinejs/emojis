@@ -1,7 +1,3 @@
-# 酷安表情
+# COOLAPK
 
-酷安表情
-
-由 https://github.com/walinejs/emojis/pull/5
-
-修改分出
+COOLAPK EMOJI
