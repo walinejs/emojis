@@ -44,7 +44,15 @@ You can use set `emojis` options with an array containing following links
     ```
     https://unpkg.com/@waline/emojis@1.2.0/coolapk_coin
     ```
-  
+
+- Hoyoverse
+
+  - Honkai Impact 3rd
+
+    ```
+    https://unpkg.com/@waline/emojis@1.2.0/hoyoverse-hi3
+    ```
+
 - QQ
 
   ```
