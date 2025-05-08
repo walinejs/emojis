@@ -17,19 +17,19 @@ You can use set `emojis` options with an array containing following links
 - Alus
 
   ```
-  https://unpkg.com/@waline/emojis@1.2.0/alus
+  https://unpkg.com/@waline/emojis@1.4.0/alus
   ```
 
 - Bilibili
 
   ```
-  https://unpkg.com/@waline/emojis@1.2.0/bilibili
+  https://unpkg.com/@waline/emojis@1.4.0/bilibili
   ```
 
 - Bilibili Yellow face
 
   ```  
-  https://unpkg.com/@waline/emojis@1.2.0/bmoji
+  https://unpkg.com/@waline/emojis@1.4.0/bmoji
   ```
 
 - Coolapk
@@ -37,12 +37,12 @@ You can use set `emojis` options with an array containing following links
   - Emoji:
 
     ```
-    https://unpkg.com/@waline/emojis@1.2.0/coolapk
+    https://unpkg.com/@waline/emojis@1.4.0/coolapk
     ```
   - Coin:
 
     ```
-    https://unpkg.com/@waline/emojis@1.2.0/coolapk_coin
+    https://unpkg.com/@waline/emojis@1.4.0/coolapk_coin
     ```
 
 - Hoyoverse
@@ -50,19 +50,19 @@ You can use set `emojis` options with an array containing following links
   - Honkai Impact 3rd
 
     ```
-    https://unpkg.com/@waline/emojis@1.2.0/hoyoverse-hi3
+    https://unpkg.com/@waline/emojis@1.4.0/hoyoverse-hi3
     ```
 
 - QQ
 
   ```
-  https://unpkg.com/@waline/emojis@1.2.0/qq
+  https://unpkg.com/@waline/emojis@1.4.0/qq
   ```
 
 - Tieba
 
   ```
-  https://unpkg.com/@waline/emojis@1.2.0/tieba
+  https://unpkg.com/@waline/emojis@1.4.0/tieba
   ```
 
 - Twemoji
@@ -70,7 +70,7 @@ You can use set `emojis` options with an array containing following links
   - Emoji:
 
     ```
-    https://unpkg.com/@waline/emojis@1.2.0/tw-emoji
+    https://unpkg.com/@waline/emojis@1.4.0/tw-emoji
     ```
 
   <details>
@@ -79,73 +79,73 @@ You can use set `emojis` options with an array containing following links
   - Full: (Not recommand)
 
     ```
-    https://unpkg.com/@waline/emojis@1.2.0/tw
+    https://unpkg.com/@waline/emojis@1.4.0/tw
     ```
 
   - People:
 
     ```
-    https://unpkg.com/@waline/emojis@1.2.0/tw-people
+    https://unpkg.com/@waline/emojis@1.4.0/tw-people
     ```
 
   - Body:
 
     ```
-    https://unpkg.com/@waline/emojis@1.2.0/tw-body
+    https://unpkg.com/@waline/emojis@1.4.0/tw-body
     ```
 
   - Flag:
 
     ```
-    https://unpkg.com/@waline/emojis@1.2.0/tw-flag
+    https://unpkg.com/@waline/emojis@1.4.0/tw-flag
     ```
 
   - Food:
 
     ```
-    https://unpkg.com/@waline/emojis@1.2.0/tw-food
+    https://unpkg.com/@waline/emojis@1.4.0/tw-food
     ```
 
   - Natural:
 
     ```
-    https://unpkg.com/@waline/emojis@1.2.0/tw-natural
+    https://unpkg.com/@waline/emojis@1.4.0/tw-natural
     ```
 
   - Object:
 
     ```
-    https://unpkg.com/@waline/emojis@1.2.0/tw-object
+    https://unpkg.com/@waline/emojis@1.4.0/tw-object
     ```
 
   - Sport:
 
     ```
-    https://unpkg.com/@waline/emojis@1.2.0/tw-sport
+    https://unpkg.com/@waline/emojis@1.4.0/tw-sport
     ```
 
   - Symbol:
 
     ```
-    https://unpkg.com/@waline/emojis@1.2.0/tw-symbol
+    https://unpkg.com/@waline/emojis@1.4.0/tw-symbol
     ```
 
   - Time:
 
     ```
-    https://unpkg.com/@waline/emojis@1.2.0/tw-time
+    https://unpkg.com/@waline/emojis@1.4.0/tw-time
     ```
 
   - Travel:
 
     ```
-    https://unpkg.com/@waline/emojis@1.2.0/tw-travel
+    https://unpkg.com/@waline/emojis@1.4.0/tw-travel
     ```
 
   - Weather:
 
     ```
-    https://unpkg.com/@waline/emojis@1.2.0/tw-weather
+    https://unpkg.com/@waline/emojis@1.4.0/tw-weather
     ```
 
   </details>
@@ -153,7 +153,7 @@ You can use set `emojis` options with an array containing following links
 - Weibo
 
   ```
-  https://unpkg.com/@waline/emojis@1.2.0/weibo
+  https://unpkg.com/@waline/emojis@1.4.0/weibo
   ```
 
 ## Thanks / 感谢
