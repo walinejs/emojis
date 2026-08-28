@@ -53,6 +53,12 @@ You can use set `emojis` options with an array containing following links
     https://unpkg.com/@waline/emojis@1.4.0/hoyoverse-hi3
     ```
 
+- Noto Animated Emoji
+
+  ```
+  https://unpkg.com/@waline/emojis/noto
+  ```
+
 - QQ
 
   ```
