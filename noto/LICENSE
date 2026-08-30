@@ -1,0 +1,38 @@
+Animated Noto Color Emoji
+=========================
+
+The WebP files in this directory are Google's animated Noto Color Emoji.
+
+Copyright Google Inc.
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Source: https://googlefonts.github.io/noto-emoji-animation/
+
+Licence confirmed by the Noto team in
+https://github.com/googlefonts/noto-emoji/issues/553
+
+
+Changes made
+------------
+
+These are modified copies, not the originals. Each one was:
+
+  - scaled from 512x512 down to 64x64
+  - reduced in frame count, keeping one frame in 4, with the remaining frames
+    held longer so the animation still runs at its original speed
+  - started at the first frame that is nearly as full as the animation's
+    fullest one, rather than at frame 0. Google fades some of these in from a
+    transparent frame, which at this frame rate is a hole in the loop and a
+    blank square wherever the animation is not playing
+  - re-encoded as animated WebP
+
+Filenames are gemoji aliases (rofl.webp rather than 1f923.webp) because that
+is the shortcode Waline stores in the database.
+
+Built with https://github.com/wenscodes/waline-noto-emoji
+
+
+CC BY 4.0 asks anyone redistributing these files to credit Google, link the
+licence, and say what was changed. This file does all three, so keep it with
+the images.
